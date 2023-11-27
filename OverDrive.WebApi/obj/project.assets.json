@@ -7466,11 +7466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Junior\\Desktop\\testeCrudBack\\OverDrive.WebApi\\CrudTeste.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\OverDrive.WebApi\\CrudTeste.WebApi.csproj",
       "projectName": "CrudTeste.WebApi",
-      "projectPath": "C:\\Users\\Junior\\Desktop\\testeCrudBack\\OverDrive.WebApi\\CrudTeste.WebApi.csproj",
+      "projectPath": "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\OverDrive.WebApi\\CrudTeste.WebApi.csproj",
       "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Junior\\Desktop\\testeCrudBack\\OverDrive.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\OverDrive.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7487,11 +7487,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Junior\\Desktop\\testeCrudBack\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\Junior\\Desktop\\testeCrudBack\\Data\\Data.csproj"
+            "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\Data\\Data.csproj"
             },
-            "C:\\Users\\Junior\\Desktop\\testeCrudBack\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\Junior\\Desktop\\testeCrudBack\\Repositories\\Repositories.csproj"
+            "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\Repositories\\Repositories.csproj"
             }
           }
         }

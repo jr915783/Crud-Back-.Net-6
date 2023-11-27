@@ -2298,11 +2298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Junior\\Desktop\\testeCrudBack\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "C:\\Users\\Junior\\Desktop\\testeCrudBack\\Repositories\\Repositories.csproj",
+      "projectPath": "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\Repositories\\Repositories.csproj",
       "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Junior\\Desktop\\testeCrudBack\\Repositories\\obj\\",
+      "outputPath": "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2319,8 +2319,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Junior\\Desktop\\testeCrudBack\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\Junior\\Desktop\\testeCrudBack\\Data\\Data.csproj"
+            "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\Data\\Data.csproj"
             }
           }
         }

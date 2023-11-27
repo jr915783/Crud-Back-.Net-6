@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Junior\\Desktop\\testeCrudBack\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Junior\\Desktop\\testeCrudBack\\Domain\\Domain.csproj": {
+    "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Junior\\Desktop\\testeCrudBack\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Junior\\Desktop\\testeCrudBack\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Junior\\Desktop\\testeCrudBack\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Junior\\Desktop\\dd\\Crud-Back-.Net-6\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
